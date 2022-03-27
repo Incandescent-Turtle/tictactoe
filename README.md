@@ -1,4 +1,4 @@
-# 🎮 Tic-tac-toe with multiplayer over wifi support!
+# 🎮 Tic-Tac-Toe (Multiplayer!)
 A multiplayer version of tic tac toe with options to play [locally](#-playing-locally) (one computer) or [over wifi](#%EF%B8%8F-playing-over-wifi) with another computer.  
 <a href="https://github.com/Incandescent-Turtle/tictactoe/raw/main/TicTacToe.jar">Click to download runnable jar file</a>  
 ![game example](https://user-images.githubusercontent.com/59327500/160262201-4a940521-a914-472f-88e0-1211d0e915bc.gif)
