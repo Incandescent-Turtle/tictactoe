@@ -25,7 +25,7 @@ To play over wifi, select either "Host" or "Client" when the selection menu pops
 
 ### 📫 Host  
 The client will connect to the host using the hosts IP. After selecting "Host" in the menu, your IP will be displayed at the top of your screen.  
-![multiplayer example](https://user-images.githubusercontent.com/59327500/160262588-038d0211-815b-4867-8aee-79cb2c0a74e2.gif)  
+![host ip](https://user-images.githubusercontent.com/59327500/160268276-bee21351-4f6e-42e3-8fae-84af35558a66.PNG)
 
 <hr width="25%">  
 
